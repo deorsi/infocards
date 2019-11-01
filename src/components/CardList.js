@@ -3,9 +3,6 @@ import Card from './Card';
 
 
 const CardList = ({ infocard }) => {
-    if (true) {
-        throw new Error('NOOOO');
-    }
     return (
         <div>
             {
