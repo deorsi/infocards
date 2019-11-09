@@ -1,1 +1,1 @@
-Infocards is a react + redux project made to display infocards.
+Infocards is a React & Redux project made to display infocards.
